@@ -8,7 +8,7 @@ https://developer.mozilla.org/en-US/docs/Web/API/SpeechRecognition
 ## How to Run
 Clone the repo: https://github.com/tibra27/SpeechRecognition.git
 
-Open index.html in Chrome/chrome-like browser(Not support Firefox as of now).
+Open voice.html in Chrome/chrome-like browser(Not support Firefox as of now).
 
 It will require microphone access after you click on start button.
 
